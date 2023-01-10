@@ -4,7 +4,7 @@
   <url>
     <loc>https://liaoyaxin.com/2023/01/07/anomaly-detection/</loc>
     
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,15 +49,15 @@
 
   <url>
     <loc>https://liaoyaxin.com/</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://liaoyaxin.com/tags/paper/</loc>
-    <lastmod>2023-01-06</lastmod>
+    <loc>https://liaoyaxin.com/tags/Reflection/</loc>
+    <lastmod>2023-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -66,7 +66,7 @@
   
   <url>
     <loc>https://liaoyaxin.com/categories/Research/</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
